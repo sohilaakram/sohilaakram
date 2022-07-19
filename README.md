@@ -1,12 +1,13 @@
 - 👋 Hi There!
-- :raising_hand: I’m Sohila Akram. Studying Electronics and Communication Engineering, Cairo University
-- :heart_eyes_cat: Obsessed with the power of data and AI.
+- :raising_hand: I’m Sohila Akram. studying Electronics and Communications Engineering, Cairo University.
+- :heart_eyes_cat: Obsessed with always having something to learn.
 - 👀 Looking for an opportunity to apply my skills.
-- 💻 I’m currently learning Deep Learnig 
+- 💻 I’m currently learning Digital IC Design.
 - 📫 How to reach me [![Linkedin](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2) ](https://www.linkedin.com/in/sohila-akram)
 
 
-#  
+#
+![Verilog](https://img.shields.io/badge/Verilog_HDL-07405E?style=for-the-badge)
 ![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
